@@ -1,0 +1,4 @@
+export const LOGIN_STATE = 'LOGIN_STATE'
+export const RED_TEME_COLOR = 'RED_TEME_COLOR'
+export const GREEN_TEME_COLOR = 'GREEN_TEME_COLOR'
+export const LOGIN_FORM_VAL = 'LOGIN_FORM_VAL'
